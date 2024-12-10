@@ -8,4 +8,8 @@ eleventyNavigation:
 
 Texto sobre mim...
 
-![](/public/img/husky.jpg)
+## Outra tentativa ...
+
+![](/img/husky.jpg)
+
+![](/public/img/husky.jpg)\---
